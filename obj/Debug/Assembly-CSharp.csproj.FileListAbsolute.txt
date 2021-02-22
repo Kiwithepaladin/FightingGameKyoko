@@ -1,0 +1,545 @@
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Assembly-CSharp.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\mscorlib.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\netstandard.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.AppContext.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Collections.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.ComponentModel.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Console.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Core.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Data.Common.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Data.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Drawing.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Globalization.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.Compression.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.Pipes.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Linq.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.Http.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.Ping.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.Primitives.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.Requests.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.Security.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.Sockets.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Numerics.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.ObjectModel.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Reflection.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Resources.Reader.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Resources.Writer.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Security.Claims.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Security.Principal.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Security.SecureString.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Text.Encoding.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Threading.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Threading.Thread.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Threading.Timer.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Transactions.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.ValueTuple.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Web.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Windows.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Xml.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Xml.Linq.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Xml.XPath.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.Timeline.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.ugui.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.ugui.Editor.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.VisualStudio.Editor.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEditor.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.Cecil.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\ExCSS.Unity.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.CecilTools.dll
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEditor.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.ugui.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.Timeline.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.VisualStudio.Editor.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\Unity.ugui.Editor.pdb
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\MeGames\Kyoko and 2D Character\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\MeGames\Kyoko and 2D Character\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\MeGames\Kyoko and 2D Character\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\MeGames\Kyoko and 2D Character\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\MeGames\Kyoko and 2D Character\obj\Debug\Assembly-CSharp.dll
+D:\MeGames\Kyoko and 2D Character\obj\Debug\Assembly-CSharp.pdb
+D:\My Projects\Kyoko_Git\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\My Projects\Kyoko_Git\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\My Projects\Kyoko_Git\obj\Debug\Assembly-CSharp.dll
+D:\My Projects\Kyoko_Git\obj\Debug\Assembly-CSharp.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Assembly-CSharp.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\mscorlib.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\netstandard.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.AppContext.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Collections.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.ComponentModel.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Console.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Core.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Data.Common.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Data.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Drawing.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Globalization.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.Compression.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.Pipes.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Linq.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.Http.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.Ping.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.Primitives.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.Requests.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.Security.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.Sockets.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Numerics.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.ObjectModel.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Reflection.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Resources.Reader.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Resources.Writer.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Security.Claims.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Security.Principal.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Security.SecureString.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Text.Encoding.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Threading.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Threading.Thread.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Threading.Timer.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Transactions.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.ValueTuple.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Web.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Windows.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Xml.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Xml.Linq.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Xml.XPath.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.Timeline.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.ugui.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.ugui.Editor.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.VisualStudio.Editor.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEditor.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\websocket-sharp.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.Cecil.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\ExCSS.Unity.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.CecilTools.dll
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEditor.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\websocket-sharp.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.ugui.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.Timeline.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.VisualStudio.Editor.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\Unity.ugui.Editor.pdb
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\My Projects\Kyoko_Git\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\My Projects\Kyoko_Git\obj\Debug\Assembly-CSharp.csproj.CopyComplete
